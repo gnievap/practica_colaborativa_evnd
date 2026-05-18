@@ -1,0 +1,3 @@
+Nombre: -- Juan José Domínguez Hernández
+Carrera: -- Entornos Virtuales y Negocios Digitales
+Concepto aprendido: -- Colaborar en git, enviar invitaciones, clonar repos, crear y cambiar ramas
