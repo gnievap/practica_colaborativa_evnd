@@ -1,0 +1,3 @@
+Nombre: -- Lendali Gasca Cano
+Carrera: -- Entornos Virtuales y Negocios Digitales
+Concepto aprendido: -- Crear ramas, cambiar de ramas y clonar
