@@ -1,3 +1,4 @@
+# Clase Alumno
 class Alumno:
     def __init__(self, nombre, carrera):
         self.nombre = nombre
