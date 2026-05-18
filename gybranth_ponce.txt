@@ -1,0 +1,3 @@
+Nombre: -- Gybranth Ponce
+Carrera: -- Ingeniería en Computación / TI
+Concepto aprendido: -- Crear ramas, cambiarse de ramas, clonar repos, colaborar
