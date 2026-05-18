@@ -1,0 +1,4 @@
+Nombre: -- Jesús López de Fermín
+Carrera: entornos virtuales y negocios digitales
+Conceptos aprendidos: crear ramas,
+cambiarse de ramas, clonar repos, colaborar
