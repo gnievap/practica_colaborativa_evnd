@@ -1,0 +1,4 @@
+Nombre: -- Gaby Nieva Paredes
+Carrera: -- Ingeniería en computación
+Concepto aprendido -- Crear ramas,
+cambiarse de ramas, clonar repos, colaborar
