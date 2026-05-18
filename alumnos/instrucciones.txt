@@ -1,0 +1,6 @@
+En un nuevo archivo de texto
+que tendrá su nombre y apellido
+escribirán:
+Nombre: -- Tu nombre
+Carrera: -- Tu carrera
+Concepto aprendido -- lo que aprendiste hoy
