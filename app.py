@@ -9,3 +9,5 @@ class Alumno:
 
 alumno1 = Alumno("Anacleto", "Entornos")
 alumno1.presentarse()
+alumno2 = Alumno("Filomena", "Entornos")
+alumno2.presentarse()
