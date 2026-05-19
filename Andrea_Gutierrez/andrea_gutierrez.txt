@@ -1,3 +1,19 @@
 Nombre:  --Andrea Janet Gutierrez Morales 
 Carrera: --Entornos Virtuales y Negocios Digitales 
 Concepto: -- Crear ramas, cambiarse de ramas, clonas repos, colaborar 
+
+
+  SISTEMA DE VENTAS - TAQUILLA CINEPOLIS
+
+[REGISTRO DE VENTA: TICKET #2026-089]
+• Película: Avengers: Secret Wars
+• Sala: 4 (Digital 3D)
+• Cantidad de boletos: 3
+• Precio por boleto: $85.00 M.N.
+
+DETALLE DEL PAGO
+Subtotal: $255.00
+Descuento Estudiante: -$45.00
+TOTAL A PAGAR: $210.00 M.N.
+ 
+
