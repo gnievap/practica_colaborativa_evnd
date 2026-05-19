@@ -1,0 +1,4 @@
+Nombre: -- Angel Gabriel Alvarado Hernandez
+Carrera: -- Entornos Virtuales y Negocios Digitales
+Concepto aprendido -- Crear ramas, jalar lo que nuevo que hay en el repo, cambiar de rama, 
+colaborar
